@@ -2,9 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Preview of this project
+### `Preview of this project`
 
-![first](https://user-images.githubusercontent.com/87779391/154060908-0269a3f9-601f-452b-9899-a6a038502f4c.jpg)
+😉When you switch on left sidebar from one to another the page will not reload (🪄🪄`IMPLEMENTATION OF ROUTER`🪄🪄)
+
+😏I am **lazy** so I added the access of local storage to **customer name and address only**(🪄🪄`IMPLEMENTATION OF LOCAL STORAGE ACCESS`🪄🪄)
+
+✨**Add your name and address in the field** and then click on next and then *`click on Contact List to get the details there`* 
+
+![image](https://user-images.githubusercontent.com/87779391/154062061-62ad3750-6066-4073-b0f5-f1f047d65cef.png)
+
+
+
+
+✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️✌️
+
+
+### `INSTRUCTIONS`
+
+🙌 **Have a look how it is done, KA-ME-HA-ME-HAAAAAAAAAAAAAAAA**
+![image](https://user-images.githubusercontent.com/87779391/154062546-321afc57-a9a9-4693-b3ce-6a4b76ab4531.png)
+
+`Then after clicking on next`
+
+### **As You can see**
+
+![image](https://user-images.githubusercontent.com/87779391/154063731-50ef82a2-537e-4cf7-a349-34fc1957eb2b.png)
+
 
 
 ## Available Scripts
