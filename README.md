@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 😏I am **lazy** so I added the access of local storage to **customer name and address only**(🪄🪄`IMPLEMENTATION OF LOCAL STORAGE ACCESS`🪄🪄)
 
-✨**Add your name and address in the field** and then click on next and then *`click on Contact List to get the details there`* 
+✨**Add your name and address in the field** and then click on next and then *`click on Cancel Booking to get the details there`* 
 
 ![image](https://user-images.githubusercontent.com/87779391/154062061-62ad3750-6066-4073-b0f5-f1f047d65cef.png)
 
