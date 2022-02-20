@@ -23,7 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 🙌 **Have a look how it is done, KA-ME-HA-ME-HAAAAAAAAAAAAAAAA**
 ![image](https://user-images.githubusercontent.com/87779391/154062546-321afc57-a9a9-4693-b3ce-6a4b76ab4531.png)
 
-`Then after clicking on next`
+`Then after clicking on next click on Cancel booking`
 
 ### **As You can see**
 
