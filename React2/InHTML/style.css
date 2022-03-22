@@ -1,0 +1,18 @@
+nav{
+    --bs-breadcrumb-divider: '>';
+}
+
+.imgRound{
+    width: 6rem;
+    border-radius: 50%;
+}
+.imgSize{
+    width: 19px;
+}
+
+.myGray{
+    background-color: #2d303f;
+}
+.myDark{
+    background-color: #1f1d2b;
+}

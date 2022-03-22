@@ -1,0 +1,30 @@
+html,body{
+  background-color: #2d303f;
+}
+
+.myGray{
+  background-color: #2d303f;
+}
+nav{
+  --bs-breadcrumb-divider: '>';
+}
+
+.imgRound{
+  width: 6rem;
+  border-radius: 50%;
+  
+}
+.imgSize{
+  width: 19px;
+}
+
+.mx-auto{
+  align-items: center !important;
+}
+
+.myGray{
+  background-color: #2d303f;
+}
+.myDark{
+  background-color: #1f1d2b;
+}
