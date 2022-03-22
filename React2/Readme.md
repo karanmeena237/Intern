@@ -4,13 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Preview of this project`
 
-😉When you switch on left sidebar from one to another the page will not reload (🪄🪄`IMPLEMENTATION OF ROUTER`🪄🪄)
-
-😏I am **lazy** so I added the access of local storage to **customer name and address only**(🪄🪄`IMPLEMENTATION OF LOCAL STORAGE ACCESS`🪄🪄)
-
-✨**Add your name and address in the field** and then click on next and then *`click on Cancel Booking to get the details there`* 
-
-![image](https://user-images.githubusercontent.com/87779391/159452598-bdc1c332-cc48-4170-91b0-f01be854a596.png)
+![image](https://user-images.githubusercontent.com/87779391/159453134-96e453c5-043e-412c-a37d-0e78f6e67d1c.png)
 
 
 
@@ -20,15 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `DROPDOWN`
 
 🙌 **Have a look how it is done, KA-ME-HA-ME-HAAAAAAAAAAAAAAAA**
-![image](https://user-images.githubusercontent.com/87779391/154062546-321afc57-a9a9-4693-b3ce-6a4b76ab4531.png)
+![image](https://user-images.githubusercontent.com/87779391/159453135-0c219220-6c5b-4289-9967-73e7aa950c06.png)
 
 `Then after clicking on next click on Cancel booking`
-
-### **As You can see**
-
-![image](https://user-images.githubusercontent.com/87779391/154063731-50ef82a2-537e-4cf7-a349-34fc1957eb2b.png)
-
-
 
 ## Available Scripts
 
